@@ -1,0 +1,1 @@
+This is part of a training program. One of the design decisions was to use video in the Hero Section to make it more appealing to viewers. Additionally, the page was kept simple and nice without much complications. View the site on Netlify here https://ecommercelandingpagebootstrap.netlify.app/ 
